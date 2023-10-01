@@ -7,3 +7,7 @@ __pycache__
 .ipynb_checkpoints
 .mypy_cache
 .vscode
+
+# datasets
+*cifar10_data/
+*data/
